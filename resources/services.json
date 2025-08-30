@@ -1,0 +1,146 @@
+[
+  {
+    "name_hun": "HAJVÁGÁS",
+    "name_eng": "HAIRCUT",
+    "description_hun": "Mosás, konzultáció a fodrásszal, vágás, befejezés a választott termékkel és nyakborotválás",
+    "description_eng": "Hair wash, consultation, pancut and neck shave from your requested barber, styled and finished with your recommended product, neck shave",
+    "price_huf": 6500,
+    "price_eur": "18.50"
+  },
+  {
+    "name_hun": "HOSSZÚ HAJVÁGÁS",
+    "name_eng": "LONG HAIR CUT",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 8500,
+    "price_eur": "24.00"
+  },
+  {
+    "name_hun": "GYERMEK HAJVÁGÁS",
+    "name_eng": "HAIRCUT FOR KIDS",
+    "description_hun": "0-8 éves korig; mosás, konzultáció a fodrásszal, vágás, befejezés a választott termékkel",
+    "description_eng": "Up to 0-8 years old; hair wash, consultation, haircut from your requested arber, styled and finished with your recommended product",
+    "price_huf": 4800,
+    "price_eur": "16.50"
+  },
+  {
+    "name_hun": "HAJFESTÉS, ŐSZ HAJ FEDÉS",
+    "name_eng": "HAIR COLOURING, GRAY HAIR COVERAGE",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 5800,
+    "price_eur": "16.50"
+  },
+  {
+    "name_hun": "EGY HOSSZ HAJVÁGÁS",
+    "name_eng": "CLIPPER CUT ONLY ONE LENGTH",
+    "description_hun": "Mosás, hajvágás kizárólag géppel vágva precízen egy hosszra, befejezés a választott termékkel, nyakborotválás",
+    "description_eng": "A haircut using only clippers and cut down to one length with precision, styled with your recommended product, neck shave",
+    "price_huf": 5000,
+    "price_eur": "14.50"
+  },
+  {
+    "name_hun": "KREATÍV HAJVÁGÁS",
+    "name_eng": "CREATIVE HAIRCUT",
+    "description_hun": "Extrém hajvágás, hajtetoválás, hosszabb időtartamú munka",
+    "description_eng": "Extreme haircut, hair tattoo and it takes more time",
+    "price_huf": 7500,
+    "price_eur": "21.50"
+  },
+  {
+    "name_hun": "BARBER TREATMENT",
+    "name_eng": "BARBER TREATMENT",
+    "description_hun": "Az igazi klasszikus borbély élmény, hajvágás és borotválás egyben",
+    "description_eng": "The real classic barber experience with a haircut and a traditional hot towel shave",
+    "price_huf": 10900,
+    "price_eur": "32.50"
+  },
+  {
+    "name_hun": "BOROTVÁLÁS",
+    "name_eng": "HOT TOWEL SHAVE",
+    "description_hun": "Forró törülközős old school klasszikus késes borotválás precíz borbély módon professzionális termékekkel",
+    "description_eng": "A hot towel shave in the old school way with cut throat razor, with recommended products by your barber",
+    "price_huf": 4900,
+    "price_eur": "14.00"
+  },
+  {
+    "name_hun": "SZAKÁLL PENGÉS ÉS GÉPI IGAZÍTÁS",
+    "name_eng": "BEARD BLADE AND CLIPPER TRIM",
+    "description_hun": "Szakállvágás penge, gép és olló használatával",
+    "description_eng": "Beard trim cut using razor, clippers and scissor",
+    "price_huf": 4200,
+    "price_eur": "12.00"
+  },
+  {
+    "name_hun": "HAJVÁGÁS+SZAKÁLLIGAZÍTÁS",
+    "name_eng": "HAIRCUT+BEARD TRIM",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 10500,
+    "price_eur": "30.00"
+  },
+  {
+    "name_hun": "SZAKÁLLFESTÉS",
+    "name_eng": "BEARD COLOURING",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 3500,
+    "price_eur": "10.00"
+  },
+  {
+    "name_hun": "DAUER",
+    "name_eng": "DAUER",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 15900,
+    "price_eur": "42.50"
+  },
+  {
+    "name_hun": "FINISHELÉS",
+    "name_eng": "FINISHING",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 3000,
+    "price_eur": "8.50"
+  },
+  {
+    "name_hun": "CÉRNÁS SZEMÖLDÖK SZEDÉS",
+    "name_eng": "THREAD EYEBROW PICKING",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 1800,
+    "price_eur": "5.50"
+  },
+  {
+    "name_hun": "ORRSZŐR GYANTA",
+    "name_eng": "NOSE HAIR RESIN",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 1800,
+    "price_eur": "5.50"
+  },
+  {
+    "name_hun": "FÜLSZŐR GYANTA",
+    "name_eng": "EAR HAIR RESIN",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 1800,
+    "price_eur": "5.50"
+  },
+  {
+    "name_hun": "ORRSZŐR ÉS FÜLSZŐR GYANTA",
+    "name_eng": "NOSE- AND EAR HAIR RESIN",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 3500,
+    "price_eur": "10.00"
+  },
+  {
+    "name_hun": "BAJUSZ IGAZÍTÁS",
+    "name_eng": "MUSTACHE TRIM",
+    "description_hun": "",
+    "description_eng": "",
+    "price_huf": 500,
+    "price_eur": "1.50"
+  }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "name":"Ármin",
+        "thumbnail":"armin-Cover.jpg",
+        "video":"Ármin.mp4",
+        "intro":"Szeretnénk bemutatni csapatunk “legfiatalabb” tagját Ármint 😎⚡️<br>Számára fontos a minőségi munka és a jó hangulat teremtése, precíz, türelmes és mindig napra kész 🔥💣<br>Foglalj hozzá időpontot most",
+        "intro_eng":"We would like to introduce the “youngest” member of our team, Ármin 😎⚡️<br>Quality work and creating a good atmosphere are important to him, he is precise, patient and always up to date 🔥💣<br>Book an appointment now",
+        "reserve_link":"https://barbershopgyor.salonic.hu/employees/4558/?placeId=1597"
+    },{
+        "name":"Bálint",
+        "thumbnail":"Bálint-Borito.jpg",
+        "video":"Bálint.mp4",
+        "intro":"",
+        "intro_eng":"",
+        "reserve_link":"https://barbershopgyor.salonic.hu/employees/11805/?placeId=1597"
+    },{
+        "name":"Karesz",
+        "thumbnail":"Karesz-Borito.jpg",
+        "video":"0816.mp4",
+        "intro":"✂️Meet Karesz✂️<br>⚡️Karesz  mindennapi motivációja, hogy jobb és jobb legyen ⚡️<br>Ha a minőségi hajvágás mellett fontosnak tartod a jó társaságot is, foglalj hozzá, vár sok szeretettel 😎🔝✂️⤵️",
+        "intro_eng":"✂️Meet Karesz✂️<br>⚡️Karesz's daily motivation is to be better and better ⚡️<br>If you consider good company important in addition to a quality haircut, book with him, he is waiting for you with lots of love 😎🔝✂️⤵️",
+        "reserve_link":"https://barbershopgyor.salonic.hu/employees/14455/?placeId=1597"
+    },{
+        "name":"Matyi",
+        "thumbnail":"Matyi(1)-Borito.jpg",
+        "video":"Matyi.mp4",
+        "intro":"",
+        "intro_eng":"",
+        "reserve_link":"https://barbershopgyor.salonic.hu/employees/19838/?placeId=1597"
+    },{
+        "name":"Patrik",
+        "thumbnail":"Patrik-Borito.jpg",
+        "video":"0816 (5).mp4",
+        "intro":"A hajad és szakállad a stílusod. Ne bízd bárkire ⚠️❗️<br>Patrik ránézésre megmondja, hogy mi az a stílus, amivel a legjobb formádat mutathatod meg a világnak 🔝⚡️<br>Maximalista, aki szakmáját hobbijaként is tekinti.",
+        "intro_eng":"Your hair and beard are your style. Don't leave it to just anyone ⚠️❗️<br>Patrik will tell you at a glance what style will help you show the world your best form 🔝⚡️<br>A maximalist who also considers his profession as his hobby.",
+        "reserve_link":"https://barbershopgyor.salonic.hu/employees/7801/?placeId=1597" 
+    },{
+        "name":"Robi",
+        "thumbnail":"Robi-Borito.jpg",
+        "video":"Robi.mp4",
+        "intro":"Precíz, megbízható, maximalista 🔝👌🏻<br>Robi kollégánk képviseli a profi Borbély értékeit 🔥<br>Minden témában otthon van, vele repül az idő 😏<br>Több év tapasztalata miatt közkedvelt, gyorsan fogynak szabad időpontjai 😎<br>Próbáld ki te is",
+        "intro_eng":"Precise, reliable, and a perfectionist 🔝👌🏻<br>Our colleague Robi represents the values ​​of a professional barber 🔥<br>He is at home in every subject, time flies with him 😏<br>He is popular due to his many years of experience, his free appointments sell out quickly 😎<br>Try his services yourself",
+        "reserve_link":"https://barbershopgyor.salonic.hu/employees/4552/?placeId=1597"
+    },{
+        "name":"Sanya",
+        "thumbnail":"Sanya(1)-Borito.jpg",
+        "video":"0816 (6).mp4",
+        "intro":"",
+        "intro_eng":"",
+        "reserve_link":"https://barbershopgyor.salonic.hu/employees/6552/?placeId=1597"
+    }
+]
