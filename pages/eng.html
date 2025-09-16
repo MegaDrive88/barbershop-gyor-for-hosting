@@ -109,9 +109,19 @@ We only work with premium products, because you deserve the best.
         <p>If you would like to work in one of the most dynamically developing barber salons in Hungary, we look forward to your application!</p>
     </div>
     <div class="col-12 col-md-6">
-        <iframe style="width: 100%; height: 400px; background-color: wheat;" src="https://docs.google.com/forms/d/e/1FAIpQLSdqyMmQuAuEVVCG-x-EImu3Di_xshB6sp25bqXaTVtVkQWPhA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Betöltés…</iframe>
+        <form action="https://formsubmit.com/barbershopgyor@gmail.com" method="POST" enctype="multipart/form-data">
+            <input type="text" name="nev" placeholder="Name" required class="form-control carreerinp">
+            <input type="tel" name="telefon" placeholder="Telephone" required class="form-control carreerinp">
+            <input type="email" name="email" placeholder="E-mail address" required class="form-control carreerinp">
+            <input type="number" name="tapasztalat" placeholder="Experience (years)" required class="form-control carreerinp" min="0">
+            <textarea name="comment" class="form-control carreerinp" placeholder="Comment (not necessary)"></textarea>
+            <label for="cv" style="margin-bottom: 10px;margin-left: 13px;">CV (Word/PDF)</label> 
+            <input type="file" name="cv" class="form-control" style="background-color: transparent; color: white; border-radius: 0;" accept=".doc, .docx, .pdf" id="uploadFileBtn"><br>
+            <div style="text-align: center;">
+                <input type="submit" class="fancyButton">
+            </div>
+        </form>
     </div>
-
 </div>
 <div class="section yellowBG g-0" id="streetwievs">
     <h1>Our shops</h1>
